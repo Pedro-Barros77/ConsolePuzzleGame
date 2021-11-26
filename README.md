@@ -11,3 +11,7 @@ Como o console é baseado em caracteres e um Buffer (Matriz), aprendi bastante c
 Por mais que seja simples, tenho muito orgulho desse projeto. Decidi subir ele para o GitHub como uma lembrança, para eu olhar para trás e perceber o quanto melhorei.
 
 Caso queira experimentar, deixei um executável chamado 'Launch_ConsolePuzzleGame.exe' :)
+
+OBS: Para uma melhor experiência, recomendo alterar o tamanho a fonte do console para 24px ou mais.
+Clique com o botão direito na parte superior da janela do console, clique em propriedades. 
+Feche o executável e abra novamente para aplicar as alterações.
